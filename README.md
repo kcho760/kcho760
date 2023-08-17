@@ -5,7 +5,7 @@
 
 🛠️ Languages & Tools: JavaScript, React, Node.js, MongoDB, Express, Ruby.
 
-🌱 Currently Learning: Always eager to learn, I'm constantly exploring new tools and technologies to enhance my skillset.
+🌱 Currently Learning: C#, .NET, learning how to deploy app to Google's play store.
 
 🤝 Let's Connect: I'm open to collaborating on exciting projects and would love to engage with other like-minded developers.
 
