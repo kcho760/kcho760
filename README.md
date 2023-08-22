@@ -5,7 +5,7 @@
 
 🛠️ Languages & Tools: JavaScript, React, Node.js, MongoDB, Express, Ruby.
 
-🌱 Currently Learning: C#, .NET, learning how to deploy app to Google's play store.
+🌱 Currently Learning: C#, .NET, learning how to deploy app using react native.
 
 🤝 Let's Connect: I'm open to collaborating on exciting projects and would love to engage with other like-minded developers.
 
