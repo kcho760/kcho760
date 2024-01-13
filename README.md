@@ -1,5 +1,5 @@
 
-## 👋 Hi, I'm Kevin Cho! I'm a software engineer based in New York, specialized in the MERN stack and Ruby technologies.
+## 👋 Hi, I'm Kevin Cho! I'm a software engineer based in New York, specialized in the MERN stack and Android technologies.
 
 🎓 Recently graduated from a rigorous bootcamp at App Academy, I have honed my skills in coding, problem-solving, and quickly adapting to new technologies. I'm passionate about building scalable and robust applications, and I enjoy diving deep into code to find efficient solutions.
 
