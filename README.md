@@ -3,9 +3,9 @@
 
 🎓 Recently graduated from a rigorous bootcamp at App Academy, I have honed my skills in coding, problem-solving, and quickly adapting to new technologies. I'm passionate about building scalable and robust applications, and I enjoy diving deep into code to find efficient solutions.
 
-🛠️ Languages & Tools: JavaScript, React(JS and Native), Node.js, MongoDB, Express, Ruby, Kotlin, Google Firebase.
+🛠️ Languages & Tools: JavaScript, React(JS and Native), Node.js, MongoDB, Express, Ruby, Kotlin, Google Firebase, Jetpack Compose.
 
-🌱 Currently Learning: Deploying native Android Apps
+🌱 Currently Learning: Developing and Deploying native Android Apps
 
 🤝 Let's Connect: I'm open to collaborating on exciting projects and would love to engage with other like-minded developers.
 
