@@ -11,4 +11,4 @@ Let's Connect: I'm open to collaborating on exciting projects and would love to 
 
 I'm currently based in NYC.
 Feel free to check out my repositories and don't hesitate to reach out to me at kcho760@gmail.com or 1(347)-840-2027!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/kcho760/github-readme-stats)
